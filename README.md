@@ -8,7 +8,7 @@ This is a SP1 Processor Emulator for Load-Store Assembler.
 
 2 - Compile the Assembler using the command:
       
-      $make .
+      $make 
 
 3 - Mount the test file (test.asm) 
 
